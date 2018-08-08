@@ -23,3 +23,9 @@ A project is a collection of configuration and apps for a particular website.
 A project can contain multiple apps. An app can be in multiple projects.
 
 ```
+
+##### When to use include() fuction ? 
+
+```
+include() fuction is used when it include other URL patterns.
+```
